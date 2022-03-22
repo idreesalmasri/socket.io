@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "socket.io": "^4.4.1"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "name": "socket.io",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node hup.js",
+    "test": "jest --coverage --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idreesalmasri/socket.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idreesalmasri/socket.io/issues"
+  },
+  "homepage": "https://github.com/idreesalmasri/socket.io#readme"
+}
