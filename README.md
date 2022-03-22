@@ -3,5 +3,5 @@ build delivery tracking system, creating an event observable over a network with
 
 ![uml](./uml.JPG)
 
-[actions link]()  
-[PR link]()
+[actions link](https://github.com/idreesalmasri/socket.io/actions)  
+[PR link](https://github.com/idreesalmasri/socket.io/pull/1)
